@@ -1,4 +1,4 @@
-def my_each(collection) do |i|
-  puts i 
+def my_each(collection) 
+  while i 
   
 end
